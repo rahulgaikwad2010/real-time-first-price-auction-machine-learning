@@ -16,7 +16,7 @@ In a first-price auction, the highest bidder wins and pays the price they bid if
 ```
 ├── Real Time First Price Auctions Machine Learning
 |  ├── data          - this folder contains training data.
-|  │    └── Auction_Dataset.csv
+|  │    └── Auction_Dataset_Trimmed.csv - trimmed data is uploaded due to max limit
 |  │
 └───── Real Time First Price Auctions.ipynb
 ```
@@ -55,5 +55,7 @@ Setting a reserve price induces this by causing bidders to lose at lower bids wh
 ## Author
 
 * **Rahul Gaikwad** - Initial work and development
+
+#### Queries? Write me to `rahul.gaikwad2010@gmail.com`
 
 <br/>
