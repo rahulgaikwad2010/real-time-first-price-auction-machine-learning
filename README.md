@@ -1,5 +1,25 @@
 # Real Time First Price Auctions Machine Learning
 
+# Table Of Contents
+-  [Project Structure Overview](#project-structure-overview)
+-  [Introduction](#introduction)
+-  [Problem Statement](#problem-statement)
+-  [Questions](#questions)
+-  [Version](#version)
+-  [Author](#author)
+
+<br/>
+
+### Project Structure Overview
+```
+├── data          - this folder contains training data.
+│    └── Auction_Dataset.csv
+│
+└── Real Time First Price Auctions.ipynb
+```
+
+<br/>
+
 ### Introduction
 
 60% of the digital ad inventory is sold by publishers in **Real-Time first price Auctions.** Once a user lands on a webpage, bidders (advertisers) bid for different ad slots on the page, and the one with the highest winning bid displays their ad in the ad space and pays the amount he bid. This process encourages bid shading – bidding lesser than the perceived value of the ad space to maximize utilization for self while maintaining a particular win rate at the lowest prices. 
@@ -27,3 +47,16 @@ automated systems, there might be an unknown delay in setting reserve prices & r
 2. What is the potential revenue range our publisher can make in July?
 
 <hr/>
+<br/>
+
+## Version
+
+1.0.0 
+
+<br/>
+
+## Author
+
+* **Rahul Gaikwad** - Initial work and development
+
+<br/>
