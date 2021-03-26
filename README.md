@@ -56,6 +56,6 @@ Setting a reserve price induces this by causing bidders to lose at lower bids wh
 
 * **Rahul Gaikwad** - Initial work and development
 
-#### Queries? Write me to `rahul.gaikwad2010@gmail.com`
+Queries? Write me to *rahul.gaikwad2010@gmail.com*
 
 <br/>
