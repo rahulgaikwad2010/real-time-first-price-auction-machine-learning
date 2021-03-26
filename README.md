@@ -12,10 +12,11 @@
 
 ### Project Structure Overview
 ```
-├── data          - this folder contains training data.
-│    └── Auction_Dataset.csv
-│
-└── Real Time First Price Auctions.ipynb
+├── Real Time First Price Auctions Machine Learning
+|  ├── data          - this folder contains training data.
+|  │    └── Auction_Dataset.csv
+|  │
+└───── Real Time First Price Auctions.ipynb
 ```
 
 <br/>
